@@ -7,9 +7,9 @@ tkinter (bundled with Python)
 json 
 
 **How to Use**
-1.,Clone or download this repository.
-2.,Open a terminal/command prompt and navigate to the project directory.
-3.,Run the script using the command
+-Clone or download this repository.
+*Open a terminal/command prompt and navigate to the project directory.
++Run the script using the command
 ```
     python expense_tracker.py
 ```
