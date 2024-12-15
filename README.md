@@ -1,12 +1,12 @@
 A simple GUI-based Expense Tracker built using Python and Tkinter that allows users to record, view, and manage their expenses effectively
 
 **Requirements:**
-Python 3.x
+- Python 3.x
 Libraries:
-tkinter (bundled with Python)
-json 
+- tkinter (bundled with Python)
+- json 
 
-
+**How to Use**
 - Clone or download this repository.
 * Open a terminal/command prompt and navigate to the project directory.
 + Run the script using the command
