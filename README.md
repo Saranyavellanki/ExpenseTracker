@@ -22,6 +22,7 @@ A simple GUI-based Expense Tracker built using Python and Tkinter that allows us
       - Click Total Expenses to see the total amount spent.
 
 
+<img width="522" alt="expenseTracker" src="https://github.com/user-attachments/assets/cab2ac18-10bc-43b5-aaf0-1f57beef5c8e" />
 
-<img width="523" alt="expenseTracker" src="https://github.com/user-attachments/assets/8e564e46-3a6b-4104-bb4f-dda8219cba98" />
+
 
