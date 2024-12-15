@@ -6,7 +6,7 @@ Libraries:
 tkinter (bundled with Python)
 json 
 
-**How to Use**
+
 -Clone or download this repository.
 *Open a terminal/command prompt and navigate to the project directory.
 +Run the script using the command
