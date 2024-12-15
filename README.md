@@ -2,14 +2,22 @@ A simple GUI-based Expense Tracker built using Python and Tkinter that allows us
 
 **Requirements:**
 - Python 3.x
-Libraries:
-- tkinter (bundled with Python)
-- json 
+- Libraries:
+  - tkinter (bundled with Python)
+  - json 
 
 **How to Use**
-- Clone or download this repository.
-* Open a terminal/command prompt and navigate to the project directory.
-+ Run the script using the command
+1., Clone or download this repository.
+2., Open a terminal/command prompt and navigate to the project directory.
+3., Run the script using the command
+  ```
+  python expense_tracker.py
+  ```
+4., Use the graphical interface to:
+  - Enter the name, amount, and category of an expense, then click Add Expense.
+  - View all expenses in the table.
+  - Select an expense in the table and click Delete Selected Expense to remove it.
+  - Click Total Expenses to see the total amount spent.
 
 
 
