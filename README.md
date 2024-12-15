@@ -6,3 +6,5 @@ Libraries:
 tkinter (bundled with Python)
 json }
 
+<img width="523" alt="expenseTracker" src="https://github.com/user-attachments/assets/8e564e46-3a6b-4104-bb4f-dda8219cba98" />
+
